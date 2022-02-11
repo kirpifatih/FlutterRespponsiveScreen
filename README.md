@@ -1,6 +1,6 @@
 # screen_responsive_exam
 
-A new Flutter project.
+A study that provides information about device screen sizes and widgets.
 
 ## Getting Started
 
